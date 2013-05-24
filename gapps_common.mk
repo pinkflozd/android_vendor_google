@@ -1,14 +1,11 @@
-
 # Google Apps (Based on 20130301 from Goo.IM)
 
 # Applications
 PRODUCT_COPY_FILES += \
 	vendor/google/prebuilt/app/GoogleContactsSyncAdapter.apk:system/app/GoogleContactsSyncAdapter.apk \
-        vendor/google/prebuilt/app/Gmail2.apk:system/app/Gmail2.apk \
 	vendor/google/prebuilt/app/GoogleLoginService.apk:system/app/GoogleLoginService.apk \
 	vendor/google/prebuilt/app/GoogleServicesFramework.apk:system/app/GoogleServicesFramework.apk \
 	vendor/google/prebuilt/app/SetupWizard.apk:system/app/SetupWizard.apk \
-        vendor/google/prebuilt/app/GoogleEars.apk:system/app/GoogleEars.apk \
 	vendor/google/prebuilt/app/NetworkLocation.apk:system/app/NetworkLocation.apk \
 	vendor/google/prebuilt/app/GoogleBackupTransport.apk:system/app/GoogleBackupTransport.apk \
 	vendor/google/prebuilt/app/GoogleCalendarSyncAdapter.apk:system/app/GoogleCalendarSyncAdapter.apk \
