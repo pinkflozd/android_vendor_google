@@ -17,7 +17,7 @@ PRODUCT_COPY_FILES += \
         vendor/google/prebuilt/app/GoogleFeedback.apk:system/app/GoogleFeedback.apk \
         vendor/google/prebuilt/app/GooglePartnerSetup.apk:system/app/GooglePartnerSetup.apk \
         vendor/google/prebuilt/app/GoogleTTS.apk:system/app/GoogleTTS.apk \
-        vendor/google/prebuilt/app/LatinImeDictionary.apk:system/app/LatinImeDictionary.apk \
+        vendor/google/prebuilt/app/LatinImeDictionaryPack.apk:system/app/LatinImeDictionaryPack.apk \
         vendor/google/prebuilt/app/MarketUpdater.apk:system/app/MarketUpdater.apk \
         vendor/google/prebuilt/app/MediaUploader.apk:system/app/MediaUploader.apk \
         vendor/google/prebuilt/app/OneTimeInitializer.apk:system/app/OneTimeInitializer.apk \
